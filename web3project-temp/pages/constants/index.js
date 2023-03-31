@@ -479,3 +479,5 @@ export const abi = [
     type: "function",
   },
 ];
+
+export default NFT_CONTRACT_ADDRESS;
